@@ -1,0 +1,35 @@
+camera
+{
+	position = { -2, 10, 11 }
+}
+light
+{
+	position = { 16, 10, 11 }
+	color = { 255, 255, 255 }
+}
+object
+{
+	type = sphere
+	position = { 1, 1, -2 }
+	rosition = { -15, 1, 50 }
+	info
+	{
+		color = { 255, 255, 255}
+		shine = 256
+			brightness = 256
+			radius = 5
+	}
+}
+object
+{
+	type = plane
+	position = { 1, 1, -2 }
+	rosition = { -15, 1, 50 }
+	info
+	{
+		color = { 255, 255, 255}
+		shine = 256
+			brightness = 256
+			radius = 5
+	}
+}
